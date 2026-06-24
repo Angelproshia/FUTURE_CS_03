@@ -1,6 +1,8 @@
 # Screenshots — Evidence Index
 **Analyst:** Angel Proshia F
+
 **Task:** API Security Risk Analysis — Task 3
+
 **Tool:** Postman (desktop app)
 
 ---
@@ -46,7 +48,7 @@ the comparison baseline against JSONPlaceholder)
 **Confirms:** RISK-04 (corrected) — JSONPlaceholder DOES enforce rate
 limiting (1000 req/hr), tracked per-IP since no authentication exists
 
-> ⚠️ **Important:** This screenshot directly corrected an earlier draft of
+> **Important:** This screenshot directly corrected an earlier draft of
 > the report, which had incorrectly assumed JSONPlaceholder had no rate
 > limiting at all. Real evidence always takes priority over assumption —
 > the report finding (RISK-04) was rewritten to reflect what this
