@@ -11,7 +11,7 @@
 **Request:** `GET https://jsonplaceholder.typicode.com/users` — no auth tab configured
 **Shows:** `200 OK` response (257 ms) with full user records — name, username,
 email, complete address — for all 10 users, with zero authentication required.
-**Confirms:** RISK-01 — Unauthenticated Access to Full User Records
+**Confirms:** RISK-01 — Unauthenticated Access to Full User Records 
 
 ---
 
