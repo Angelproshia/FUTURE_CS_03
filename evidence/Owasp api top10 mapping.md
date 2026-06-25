@@ -5,7 +5,7 @@
 This document maps each finding in the report to its corresponding OWASP
 API Security Top 10 (2023) category, for anyone wanting to cross-reference
 against the official OWASP project. Each row also links to the real
-Postman screenshot that provided the evidence for that finding.
+Postman screenshot that provided the evidence for that finding.   
 
 ---
 
